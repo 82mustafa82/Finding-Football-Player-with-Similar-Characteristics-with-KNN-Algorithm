@@ -1,0 +1,201 @@
+Name;Nationality;Position;Team;League;Rating;Pace;Shooting;Passing;Dribbling;Defending;Physical
+Lionel Messi;ARG;RW;Paris SG;Ligue 1 Uber Eats;93;85;92;91;95;34;65
+Robert Lewandowski;POL;ST;FC Bayern München;Bundesliga;92;78;92;79;86;44;82
+Cristiano Ronaldo;POR;ST;Manchester Utd;Premier League;91;87;93;82;88;34;75
+Kevin De Bruyne;BEL;CM;Manchester City;Premier League;91;76;86;93;88;64;78
+Neymar Jr;BRA;LW;Paris SG;Ligue 1 Uber Eats;91;91;83;86;94;37;63
+Kylian Mbappe;FRA;ST;Paris SG;Ligue 1 Uber Eats;91;97;88;80;92;36;77
+Harry Kane;ENG;ST;Spurs;Premier League;90;70;91;83;83;47;83
+N’Golo Kante;FRA;CDM;Chelsea;Premier League;90;78;66;75;82;87;83
+Mohamed Salah;EGY;RW;Liverpool;Premier League;89;90;87;81;90;45;75
+Karim Benzema;FRA;CF;Real Madrid;LaLiga Santander;89;76;86;81;87;39;77
+Virgil van Dijk;NED;CB;Liverpool;Premier League;89;78;60;71;72;91;84
+Joshua Kimmich;GER;CDM;FC Bayern München;Bundesliga;89;70;73;86;84;83;79
+Casemiro;BRA;CDM;Real Madrid;LaLiga Santander;89;65;73;76;73;86;90
+Sadio Mane;SEN;LW;Liverpool;Premier League;89;91;83;80;89;44;77
+Heung Min Son;KOR;LM;Spurs;Premier League;89;88;87;82;86;43;69
+Sergio Ramos;ESP;CB;Paris SG;Ligue 1 Uber Eats;88;70;70;76;74;88;84
+Bruno Fernandes;POR;CAM;Manchester Utd;Premier League;88;75;86;89;84;70;77
+Luis Suarez;URU;ST;Atletico de Madrid;LaLiga Santander;88;72;90;82;84;47;83
+Raheem Sterling;ENG;LW;Manchester City;Premier League;88;91;82;79;87;45;66
+Erling Haaland;NOR;ST;Borussia Dortmund;Bundesliga;88;89;91;65;80;45;88
+Toni Kroos;GER;CM;Real Madrid;LaLiga Santander;88;53;81;91;81;71;68
+Romelu Lukaku;BEL;ST;Chelsea;Premier League;88;84;87;74;78;39;83
+Ciro Immobile;ITA;ST;Lazio;Serie A TIM;87;86;87;67;81;39;77
+Paulo Dybala;ARG;CF;Juventus;Serie A TIM;87;84;86;86;90;40;60
+Leon Goretzka;GER;CM;FC Bayern München;Bundesliga;87;81;82;82;84;81;86
+Thomas Müller;GER;CAM;FC Bayern München;Bundesliga;87;67;84;83;80;56;71
+Sergio Agüero;ARG;ST;FC Barcelona;LaLiga Santander;87;71;89;75;87;33;69
+Frenkie de Jong;NED;CM;FC Barcelona;LaLiga Santander;87;81;69;85;88;77;78
+Marquinhos;BRA;CB;Paris SG;Ligue 1 Uber Eats;87;81;53;75;74;89;81
+Angel Di Maria;ARG;RW;Paris SG;Ligue 1 Uber Eats;87;83;81;86;87;48;69
+Jadon Sancho;ENG;RM;Manchester Utd;Premier League;87;81;76;82;91;36;65
+Paul Pogba;FRA;CM;Manchester Utd;Premier League;87;71;81;86;86;65;83
+Andrew Robertson;SCO;LB;Liverpool;Premier League;87;84;61;80;81;82;76
+Trent Alexander-Arnold;ENG;RB;Liverpool;Premier League;87;79;68;88;80;80;72
+Marco Verratti;ITA;CM;Paris SG;Ligue 1 Uber Eats;87;64;61;87;91;79;67
+Ruben Dias;POR;CB;Manchester City;Premier League;87;61;38;65;68;88;88
+Luka Modric;CRO;CM;Real Madrid;LaLiga Santander;87;73;76;89;88;72;66
+Jamie Vardy;ENG;ST;Leicester City;Premier League;86;85;84;70;80;52;73
+Fabinho;BRA;CDM;Liverpool;Premier League;86;67;69;78;78;85;83
+Thiago;ESP;CM;Liverpool;Premier League;86;63;72;86;90;70;66
+Giorgio Chiellini;ITA;CB;Juventus;Serie A TIM;86;68;46;60;59;89;85
+Lorenzo Insigne;ITA;LW;Napoli;Serie A TIM;86;87;78;85;90;36;45
+Kalidou Koulibaly;SEN;CB;Napoli;Serie A TIM;86;81;28;51;65;87;85
+Raphael Varane;FRA;CB;Manchester Utd;Premier League;86;82;49;64;65;87;82
+Kingsley Coman;FRA;LM;FC Bayern München;Bundesliga;86;93;76;79;88;30;60
+Sergio Busquets;ESP;CDM;FC Barcelona;LaLiga Santander;86;42;62;79;80;82;75
+Gerard Moreno;ESP;ST;Villarreal CF;LaLiga Santander;86;79;86;77;84;46;73
+Parejo;ESP;CM;Villarreal CF;LaLiga Santander;86;50;83;90;81;71;69
+Jordi Alba;ESP;LB;FC Barcelona;LaLiga Santander;86;86;69;81;83;77;71
+Milan Skriniar;SVK;CB;Inter;Serie A TIM;86;80;41;53;69;87;84
+Rodri;ESP;CDM;Manchester City;Premier League;86;61;70;77;78;82;82
+Aymeric Laporte;ESP;CB;Manchester City;Premier League;86;63;50;72;69;86;80
+Bernardo Silva;POR;CAM;Manchester City;Premier League;86;80;76;83;91;54;67
+Riyad Mahrez;ALG;RW;Manchester City;Premier League;86;81;79;81;90;38;60
+Joao Cancelo;POR;RB;Manchester City;Premier League;86;85;71;83;84;80;72
+Mats Hummels;GER;CB;Borussia Dortmund;Bundesliga;86;56;59;77;73;89;77
+Marcos Llorente;ESP;CM;Atletico de Madrid;LaLiga Santander;86;88;80;81;82;78;82
+Theo Hernandez;FRA;LWB;Milan;Serie A TIM;86;95;74;79;83;79;84
+Alejandro Gomez;ARG;CAM;Sevilla FC;LaLiga Santander;85;87;78;84;87;39;55
+Pierre-Emerick Aubameyang;GAB;ST;FC Barcelona;LaLiga Santander;85;89;85;75;80;35;69
+Edinson Cavani;URU;ST;Manchester Utd;Premier League;85;66;86;70;76;51;79
+Matthijs de Ligt;NED;CB;Juventus;Serie A TIM;85;73;59;60;69;84;87
+Marcus Rashford;ENG;LM;Manchester Utd;Premier League;85;90;84;79;84;43;77
+Roberto Firmino;BRA;CF;Liverpool;Premier League;85;77;78;79;89;59;78
+Sergej Milinkovic-Savic;SRB;CM;Lazio;Serie A TIM;85;68;79;80;81;79;86
+Wilfred Ndidi;NIG;CDM;Leicester City;Premier League;85;67;62;69;74;87;83
+Leonardo Bonucci;ITA;CB;Juventus;Serie A TIM;85;64;58;69;72;86;80
+Serge Gnabry;GER;RM;FC Bayern München;Bundesliga;85;83;84;79;86;43;69
+Memphis Depay;NED;CF;FC Barcelona;LaLiga Santander;85;82;83;82;84;30;79
+David Silva;ESP;CAM;Real Sociedad;LaLiga Santander;85;63;74;87;87;52;53
+Oyarzabal;ESP;LW;Real Sociedad;LaLiga Santander;85;82;82;81;84;41;63
+Achraf Hakimi;MAR;RB;Paris SG;Ligue 1 Uber Eats;85;95;71;78;83;76;78
+Antoine Griezmann;FRA;ST;Atletico de Madrid;LaLiga Santander;85;80;84;84;87;52;72
+Koke;ESP;CM;Atletico de Madrid;LaLiga Santander;85;70;75;85;81;79;80
+Stefan de Vrij;NED;CB;Inter;Serie A TIM;85;72;41;64;70;87;79
+Lautaro Martinez;ARG;ST;Inter;Serie A TIM;85;84;81;72;85;48;84
+Kyle Walker;ENG;RB;Manchester City;Premier League;85;92;63;76;78;80;82
+İlkay Gündoğan;GER;CM;Manchester City;Premier League;85;65;80;85;86;73;72
+Eden Hazard;BEL;LW;Real Madrid;LaLiga Santander;85;84;80;82;88;35;63
+Marco Reus;GER;CAM;Borussia Dortmund;Bundesliga;85;73;84;84;85;47;63
+Thiago Silva;BRA;CB;Chelsea;Premier League;85;53;54;72;72;86;78
+Jorginho;ITA;CM;Chelsea;Premier League;85;55;67;86;81;73;73
+Carvajal;ESP;RB;Real Madrid;LaLiga Santander;85;80;54;78;80;81;80
+Theo Hernandez;FRA;LB;Milan;Serie A TIM;84;93;71;76;81;77;82
+Stefan Savic;MNE;CB;Atletico de Madrid;LaLiga Santander;84;64;35;57;58;87;76
+Lucas Digne;FRA;LB;Aston Villa;Premier League;84;79;69;80;80;80;76
+Luis Alberto;ESP;CAM;Lazio;Serie A TIM;84;63;76;87;85;57;59
+Nabil Fekir;FRA;CAM;Real Betis;LaLiga Santander;84;83;83;82;87;38;79
+Jesus Navas;ESP;RB;Sevilla FC;LaLiga Santander;84;87;69;81;83;79;58
+Ricardo Pereira;POR;RB;Leicester City;Premier League;84;83;67;78;82;80;75
+Dries Mertens;BEL;CF;Napoli;Serie A TIM;84;85;82;79;88;34;50
+Dusan Tadic;SRB;LW;Ajax;Eredivisie;84;69;81;85;85;43;76
+Jordan Henderson;ENG;CDM;Liverpool;Premier League;84;66;74;83;79;78;81
+Wissam Ben Yedder;FRA;ST;AS Monaco;Ligue 1 Uber Eats;84;82;84;77;87;39;70
+Josip Ilicic;SVN;CF;Atalanta;Serie A TIM;84;75;86;84;86;40;67
+Fernando;BRA;CDM;Sevilla FC;LaLiga Santander;84;66;62;75;74;83;82
+Youri Tielemans;BEL;CM;Leicester City;Premier League;84;63;79;86;80;71;72
+Marcos Acuna;ARG;LB;Sevilla FC;LaLiga Santander;84;76;74;82;87;79;82
+Pique;ESP;CB;FC Barcelona;LaLiga Santander;84;58;61;71;68;85;78
+Iago Aspas;ESP;ST;RC Celta;LaLiga Santander;84;82;85;79;86;35;63
+Lucas Digne;FRA;LB;Everton;Premier League;84;79;69;80;80;80;76
+Harry Maguire;ENG;CB;Manchester Utd;Premier League;84;50;55;69;70;85;87
+Luke Shaw;ENG;LB;Manchester Utd;Premier League;84;79;54;79;80;81;80
+Marcel Sabitzer;AUT;CM;FC Bayern München;Bundesliga;84;78;84;81;80;67;78
+Filip Kostic;SRB;LM;Frankfurt;Bundesliga;84;88;77;82;83;68;80
+Andre Silva;POR;ST;RB Leipzig;Bundesliga;84;74;84;69;83;45;77
+Matthias Ginter;GER;CB;M’gladbach;Bundesliga;84;62;58;72;66;86;79
+Leroy Sane;GER;RM;FC Bayern München;Bundesliga;84;90;81;79;85;38;68
+Georginio Wijnaldum;NED;CM;Paris SG;Ligue 1 Uber Eats;84;77;75;80;86;79;79
+Felipe;BRA;CB;Atletico de Madrid;LaLiga Santander;84;61;41;58;62;85;84
+Kieran Trippier;ENG;RB;Newcastle Utd;Premier League;84;73;63;82;77;80;72
+Zlatan Ibrahimovic;SWE;ST;Milan;Serie A TIM;84;65;87;78;79;34;77
+Franck Yannick Kessie;CIV;CDM;Milan;Serie A TIM;84;78;74;74;80;82;87
+Marcelo Brozovic;CRO;CDM;Inter;Serie A TIM;84;69;74;80;79;79;78
+Phil Foden;ENG;CAM;Manchester City;Premier League;84;84;78;80;87;56;57
+Jack Grealish;ENG;LW;Manchester City;Premier League;84;80;76;83;88;46;64
+Raphael Guerreiro;POR;LB;Borussia Dortmund;Bundesliga;84;75;77;85;88;76;58
+David Alaba;AUT;CB;Real Madrid;LaLiga Santander;84;77;70;81;80;83;76
+Hakim Ziyech;MAR;RW;Chelsea;Premier League;84;78;76;87;83;50;65
+Kai Havertz;GER;CAM;Chelsea;Premier League;84;82;78;79;84;45;66
+Timo Werner;GER;ST;Chelsea;Premier League;84;91;81;70;82;35;70
+Jose Maria Gimenez;URU;CB;Atletico de Madrid;LaLiga Santander;84;69;45;57;59;86;80
+Yannick Carrasco;BEL;LM;Atletico de Madrid;LaLiga Santander;84;88;81;78;85;45;67
+Nicolo Barella;ITA;CM;Inter;Serie A TIM;84;78;71;79;86;75;78
+Robin Gosens;GER;LM;Inter;Serie A TIM;83;82;75;78;79;77;81
+Wout Weghorst;NED;ST;Burnley;Premier League;83;63;83;59;70;52;86
+Kostas Manolas;GRE;CB;Olympiacos CFP;Hellas Liga;83;81;25;44;62;85;81
+Raul Jimenez;MEX;ST;Wolves;Premier League;83;72;82;76;81;47;82
+Alex Sandro;BRA;LB;Juventus;Serie A TIM;83;81;65;77;79;78;79
+Canales;ESP;CM;Real Betis;LaLiga Santander;83;83;80;85;82;67;71
+Lucas Ocampos;ARG;LW;Sevilla FC;LaLiga Santander;83;81;84;78;83;63;84
+Joel Matip;CAM;CB;Liverpool;Premier League;83;58;46;68;68;85;78
+Duvan Zapata;COL;ST;Atalanta;Serie A TIM;83;80;81;61;78;35;84
+Aaron Wan-Bissaka;ENG;RB;Manchester Utd;Premier League;83;85;52;69;79;81;75
+Federico Chiesa;ITA;RW;Juventus;Serie A TIM;83;91;81;74;85;48;73
+Gaya;ESP;LB;Valencia CF;LaLiga Santander;83;83;61;77;80;79;73
+Leonardo Spinazzola;ITA;LWB;Roma FC;Serie A TIM;83;92;64;73;80;78;71
+Juan Cuadrado;COL;RB;Juventus;Serie A TIM;83;90;75;77;87;76;72
+Kostas Manolas;GRE;CB;Napoli;Serie A TIM;83;81;25;44;62;85;81
+Francesco Acerbi;ITA;CB;Lazio;Serie A TIM;83;63;50;62;64;86;83
+Ousmane Dembele;FRA;RW;FC Barcelona;LaLiga Santander;83;93;77;77;86;36;56
+Marco Asensio;ESP;RW;Real Madrid;LaLiga Santander;83;82;80;81;83;43;62
+Kevin Volland;GER;ST;AS Monaco;Ligue 1 Uber Eats;83;73;85;79;80;42;86
+Henrikh Mkhitaryan;ARM;CF;Roma FC;Serie A TIM;83;85;80;79;83;56;74
+Allan;BRA;CDM;Everton;Premier League;83;72;71;77;82;80;79
+Paulinho;BRA;CM;Al Ahli;MBS Pro League;83;72;81;77;81;80;85
+Merino;ESP;CM;Real Sociedad;LaLiga Santander;83;74;78;81;82;82;81
+Carlos Vela;MEX;RW;LAFC;Major League Soccer;83;80;82;78;84;31;67
+Morata;ESP;ST;Juventus;Serie A TIM;83;82;80;72;81;31;77
+Jules Kounde;FRA;CB;Sevilla FC;LaLiga Santander;83;81;45;64;72;84;78
+Arthur;BRA;CM;Juventus;Serie A TIM;83;69;67;84;88;72;70
+Thomas Partey;GHA;CM;Arsenal;Premier League;83;69;71;82;81;80;84
+Robin Gosens;GER;LM;Atalanta;Serie A TIM;83;82;75;78;79;77;81
+Sebastian Coates;URU;CB;Sporting CP;Liga Portugal;83;68;49;55;63;84;87
+Muniain;ESP;CAM;Athletic Club;LaLiga Santander;83;81;76;82;87;51;61
+Pierre-Emile Hojbjerg;DEN;CDM;Spurs;Premier League;83;60;71;76;76;81;82
+Andrej Kramaric;CRO;ST;TSG Hoffenheim;Bundesliga;83;71;86;76;86;30;71
+Wout Weghorst;NED;ST;VfL Wolfsburg;Bundesliga;83;63;83;59;70;52;86
+Angelino;ESP;LWB;RB Leipzig;Bundesliga;83;78;71;82;84;76;70
+Lucas Hernandez;FRA;LB;FC Bayern München;Bundesliga;83;77;54;68;71;84;79
+Presnel Kimpembe;FRA;CB;Paris SG;Ligue 1 Uber Eats;83;81;42;68;70;83;86
+Mauro Icardi;ARG;ST;Paris SG;Ligue 1 Uber Eats;83;69;83;65;77;36;69
+Simon Kjaer;DEN;CB;Milan;Serie A TIM;83;67;55;64;59;85;78
+Gabriel Jesus;BRA;ST;Manchester City;Premier League;83;84;81;72;86;39;73
+Fernandinho;BRA;CDM;Manchester City;Premier League;83;59;72;75;78;84;75
+Edin Dzeko;BIH;ST;Inter;Serie A TIM;83;66;83;71;78;45;76
+John Stones;ENG;CB;Manchester City;Premier League;83;70;51;71;74;84;78
+Federico Valverde;URU;CM;Real Madrid;LaLiga Santander;83;86;74;78;79;77;80
+Ferland Mendy;FRA;LB;Real Madrid;LaLiga Santander;83;92;64;76;79;78;84
+Axel Witsel;BEL;CDM;Borussia Dortmund;Bundesliga;83;61;72;81;79;82;79
+Azpilicueta;ESP;CB;Chelsea;Premier League;83;66;55;76;72;84;76
+Antonio Rüdiger;GER;CB;Chelsea;Premier League;83;75;43;68;64;84;84
+Mateo Kovacic;CRO;CM;Chelsea;Premier League;83;70;69;83;88;69;70
+Mason Mount;ENG;CAM;Chelsea;Premier League;83;74;79;84;83;55;65
+Angel Correa;ARG;ST;Atletico de Madrid;LaLiga Santander;83;85;83;78;87;49;74
+Joao Felix;POR;CF;Atletico de Madrid;LaLiga Santander;83;82;79;76;86;40;68
+Thomas Lemar;FRA;LM;Atletico de Madrid;LaLiga Santander;83;82;76;82;86;59;63
+Jesus Corona;MEX;RM;Sevilla FC;LaLiga Santander;82;83;67;79;85;74;60
+Christian Eriksen;DEN;CM;Brentford;Premier League;82;62;78;88;81;53;52
+Ferran Torres;ESP;RW;FC Barcelona;LaLiga Santander;82;82;79;78;82;35;66
+Miralem Pjanic;BIH;CM;Beşiktaş;Süper Lig;82;65;68;83;81;75;67
+Niklas Süle;GER;CB;FC Bayern München;Bundesliga;82;65;42;59;51;83;81
+Coutinho;BRA;CAM;Aston Villa;Premier League;82;69;79;80;88;52;59
+Alexandre Lacazette;FRA;ST;Arsenal;Premier League;82;75;82;74;82;44;72
+Marten de Roon;NED;CDM;Atalanta;Serie A TIM;82;66;68;72;73;82;83
+Jesus Corona;MEX;RM;FC Porto;Liga Portugal;82;83;67;79;85;74;60
+Campana;ESP;CM;Levante UD;LaLiga Santander;82;68;74;83;82;71;72
+Ever Banega;ARG;CDM;Al Shabab;MBS Pro League;82;62;75;84;82;76;71
+Tomas Soucek;CZE;CDM;West Ham;Premier League;82;64;72;74;74;82;85
+Mario Fernandes;RUS;RB;CSKA Moscow;League of Russia;82;82;61;74;78;79;79
+Anderson Talisca;BRA;CF;Al Nassr;MBS Pro League;82;80;83;81;83;52;75
+Alex Telles;BRA;LB;Manchester Utd;Premier League;82;83;73;82;78;77;73
+Joe Gomez;ENG;CB;Liverpool;Premier League;82;81;30;66;69;83;78
+Pau Torres;ESP;CB;Villarreal CF;LaLiga Santander;82;71;38;67;70;84;80
+Alexander Isak;SWE;ST;Real Sociedad;LaLiga Santander;82;84;82;68;79;29;69
+Clement Lenglet;FRA;CB;FC Barcelona;LaLiga Santander;82;72;45;67;66;83;79
+Dani Olmo;ESP;CAM;RB Leipzig;Bundesliga;82;67;76;81;86;50;60
+Martin Odegaard;NOR;CAM;Arsenal;Premier League;82;77;74;83;84;58;62
+Palhinha;POR;CDM;Sporting CP;Liga Portugal;82;60;65;70;72;85;88
+Ivan Rakitic;CRO;CM;Sevilla FC;LaLiga Santander;82;57;79;85;78;75;69
